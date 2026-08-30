@@ -119,6 +119,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://docs.microsandbox.dev/favicon.ico" height="14"/> [Microsandbox](https://github.com/microsandbox/microsandbox)<sup><sup>⭐</sup></sup> - Self-hosted platform for secure execution of AI code. Great for Code Interpreter, Data Analysis, Browser Use.
 - <img src="https://e2b.dev/favicon.ico" height="14"/> [E2B](https://github.com/e2b-dev/mcp-server)<sup><sup>⭐</sup></sup> - Secure cloud development environments for AI agents. Enables safe code execution and testing in isolated containers.
 - <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker](https://github.com/QuantGeekDev/docker-mcp) - An MCP server for Docker operations, enabling seamless container and compose stack management.
+- <img src="https://raw.githubusercontent.com/sandbaseai/sandbase-harness/main/docs/assets/sandbase-harness-icon.png" height="14"/> [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first AI agent runtime with sandboxed sessions, durable state, memory, credentials, audit/replay, and an MCP bridge.
 
 <br />
 
